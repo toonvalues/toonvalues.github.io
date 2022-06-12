@@ -4,9 +4,9 @@ questions = [
 		//increasing dipl makes leader higher
 		//increasing govt makes quanity higher
 		//increasing scty makes progress higher
-        "question": "Spamming Sound is lame.",
+        "question": "I prefer not to spam sound.",
         "effect": {
-            "econ": -5,
+            "econ": -4,
             "dipl": 1,
             "govt": 0,
             "scty": 0
