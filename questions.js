@@ -184,7 +184,7 @@ questions = [
         }
     },
 	{
-        "question": "Storm cloud should deal 1 more point of damage.",
+        "question": "Storm cloud should deal 2 more point of damage.",
         "effect": {
             "econ": -6,
             "dipl": 0,
