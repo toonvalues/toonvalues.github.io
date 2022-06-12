@@ -168,7 +168,7 @@ questions = [
 	{
         "question": "Toontown Corporate clash is too easy.",
         "effect": {
-            "econ": -3,
+            "econ": -2,
             "dipl": 0,
             "govt": 0,
             "scty": 3
@@ -186,17 +186,17 @@ questions = [
 	{
         "question": "Storm cloud should deal 2 more point of damage.",
         "effect": {
-            "econ": -6,
+            "econ": -4,
             "dipl": 0,
             "govt": -1,
             "scty": 0
         }
     },
 	{
-        "question": "When sound is no longer an option I usually go for trap.",
+        "question": "I prefer to tank damage, over altering my strategy.",
         "effect": {
-            "econ": 5,
-            "dipl": -5, 
+            "econ": 2,
+            "dipl": -4, 
             "govt": 0,
             "scty": 0
         }
@@ -274,21 +274,21 @@ questions = [
         }
     },
 	{
-        "question": "Craning in the CFO has been made too difficult.",
+        "question": "Craning needs a rework.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 3
         }
     },
 	{
-        "question": "The CEO is too unfair.",
+        "question": "The CEO is boring.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": -3
         }
     },
 	{
@@ -307,15 +307,6 @@ questions = [
             "dipl": 2,
             "govt": 0,
             "scty": 0
-        }
-    },
-	{
-        "question": "ToonHQ is a negative influence on Toontown.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 2
         }
     },
 	{
@@ -437,6 +428,15 @@ questions = [
     },
 	{
         "question": "New players are not helping the community.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -5
+        }
+    },
+	{
+        "question": "Level 8 gags and removal of the old 'level 7 system' improved the game.",
         "effect": {
             "econ": 0,
             "dipl": 0,
