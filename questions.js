@@ -63,7 +63,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 1,
-            "scty": 0
+            "scty": 1
         }
     },
     {
@@ -81,7 +81,7 @@ questions = [
             "econ": -2,
             "dipl": 2,
             "govt": 0,
-            "scty": -2
+            "scty": -1
         }
     },
 	{
@@ -130,12 +130,12 @@ questions = [
         }
     },
 	{
-        "question": "The OCLO has an appropriate difficulty.",
+        "question": "The OCLO is too hard.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 3
+            "scty": -3
         }
     },
 	{
@@ -184,7 +184,7 @@ questions = [
         }
     },
 	{
-        "question": "Storm cloud should deal 2 more point of damage.",
+        "question": "Storm cloud should deal 2 more points of damage.",
         "effect": {
             "econ": -4,
             "dipl": 0,
@@ -202,12 +202,12 @@ questions = [
         }
     },
 	{
-        "question": "The battle timer should be increased to have more time.",
+        "question": "The battle timer should be increased further.",
         "effect": {
             "econ": -3,
             "dipl": 3,
             "govt": 0,
-            "scty": 1
+            "scty": 0
         }
     },
 	{
@@ -238,21 +238,12 @@ questions = [
         }
     },
 	{
-        "question": "The CJ was superior to the CLO(excluding the addition of the OCLO)",
+        "question": "I prefer the CJ over the CLO.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
             "scty": -5
-        }
-    },
-	{
-        "question": "There are builds that my build just doesn't work at all with.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -3,
-            "scty": 0
         }
     },
 	{
