@@ -85,7 +85,7 @@ questions = [
         }
     },
 	{
-        "question": "I avoid grouping with 1 laff ubers.",
+        "question": "I avoid grouping with low laff ubers.",
         "effect": {
             "econ": 0,
             "dipl": -5,
