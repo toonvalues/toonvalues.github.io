@@ -435,4 +435,22 @@ questions = [
             "scty": -8
         }
     },
+	{
+        "question": "I choose to use few or no prestiges.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 8,
+            "scty": 0
+        }
+    },
+	{
+        "question": "Less prestiges makes the game more interesting.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    },
 ];
