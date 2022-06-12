@@ -453,4 +453,13 @@ questions = [
             "scty": 0
         }
     },
+	{
+        "question": "I tend to be inaccurate when calculating combo/knockback damage.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 0,
+            "scty": 0
+        }
+    },
 ];
