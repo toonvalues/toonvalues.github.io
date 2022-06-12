@@ -462,4 +462,13 @@ questions = [
             "scty": 0
         }
     },
+	{
+        "question": "I avoid trap and lure strategies.",
+        "effect": {
+            "econ": -3,
+            "dipl": 1,
+            "govt": 0,
+            "scty": 0
+        }
+    },
 ];
