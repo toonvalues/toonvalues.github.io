@@ -193,10 +193,10 @@ questions = [
         }
     },
 	{
-        "question": "I prefer to tank damage, over altering my strategy.",
+        "question": "I prefer to tank damage.",
         "effect": {
             "econ": 2,
-            "dipl": -4, 
+            "dipl": 0, 
             "govt": 0,
             "scty": 0
         }
